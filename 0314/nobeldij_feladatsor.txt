@@ -1,0 +1,10 @@
+1. Hány sorból áll a txt?
+2. Melyik a leghosszabb vezetéknév?
+3. írjunk függvényt, hogy a bekért név szerepel-e a nevek között.
+4. írjuk ki "nevek_fizikus.txt" fájlba azokat a neveket, akik fizikai nobeldíjat kaptak.
+5. Hányan kaptak nobeldíjat 2000 után?
+6. Típusok szerint hány nobeldíjat osztottak ki?
+7. Kérj be egy évszámot! Írd ki, hány nobeldíjat adták át ekkor?
+8. Kérj be egy vezeték és egy keresztnevet! Döntsd el, kapott-e nobeldíjat az illető! Ha igen, akkor írd ki konzolra mikor és milyen típusút!
+9. Névsorban írd ki egy orvos.txt fájlba azok teljes nevét, akik orvosi nobeldíjat kaptak!
+10. Kémiai vagy fizikai nobeldíjat osztottak ki többet? 

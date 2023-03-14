@@ -1,0 +1,23 @@
+versenyzok.txt fájl feladatai:
+
+1. Hány versenyző van?
+2. Hány német versenyző van?
+3. Milyen nemzetiségű versenyzők vannak a fájlban?
+4. Nemzetiség szerint hány versenyző indult?
+5. Írjuk ki nevsor.txt fájlba névsorban a neveket és a rajtszámokat!
+6. Ki indul az első helyről?
+7. Kinek ven a legrövidebb neve?
+8. Kérj be egy versenyző nevét!
+	#Szerepel-e a versenyzők között vagy sem?
+	#Kinek a neve hosszabb az általad megadott névnél?
+	#Kinek a neve kezdődik az általad megadott név 	 kezdőbetűjével?
+
+
+
+kutya.txt fájl feladatai:
+
+1. Hány sorból áll a txt?
+2. Melyik a leghosszabb név?
+3. írjunk függvényt, hogy a bekért név szerepel-e a nevek között.
+4. írjuk ki "nevek_i.txt" fájlba az i-re végződő neveket.
+5. Hány olyan név van, amely 5 karakter hosszú függvénnyel?

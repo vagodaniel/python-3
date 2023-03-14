@@ -1,0 +1,21 @@
+név	születési_dátum	nemzetiség	rajtszám
+Lewis Hamilton	1985.01.07	brit	44
+Nick Heidfeld	1977.05.10	német	1
+Nico Rosberg	1985.06.27	német	6
+Fernando Alonso	1981.07.29	spanyol	14
+Heikki Kovalainen	1981.10.19	finn	2
+Kazuki Nakajima	1985.01.11	japán	3
+Sébastien Bourdais	1979.02.28	francia	4
+Kimi Räikkönen	1979.10.17	finn	7
+Robert Kubica	1984.12.07	lengyel	88
+Timo Glock	1982.03.18	német	8
+Takuma Sato	1977.01.28	japán	9
+Nelson Piquet Jr	1985.07.25	brazíl	11
+Felipe Massa	1981.04.25	brazíl	19
+David Coulthard	1971.03.27	brit	10
+Jarno Trulli	1974.07.13	olasz	12
+Adrian Sutil	1983.01.11	német	99
+Mark Webber	1976.08.27	ausztrál	20
+Jenson Button	1980.01.19	brit	22
+Anthony Davidson	1979.04.18	brit	13
+Sebastian Vettel	1987.07.03	német	5
