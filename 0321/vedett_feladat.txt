@@ -1,0 +1,37 @@
+A következő feladatban Magyarország védett állatainak adataival kell dolgoznia. A megoldás során vegye figyelembe a következőket: 
+•	A képernyőre írást igénylő részfeladatok eredményének megjelenítése előtt írja a képernyőre a feladat sorszámát (például:3. feladat:)! 
+•	Az ékezetmentes kiírás is elfogadott. 
+•	A program megírásakor a fájlban lévő adatok helyes szerkezetét nem kell ellenőriznie, feltételezheti, hogy a rendelkezésre álló adatok a leírtaknak megfelelnek. 
+•	Megoldását úgy készítse el, hogy az azonos szerkezetű, de tetszőleges bemeneti adatok mellett is helyes eredményt adjon! 
+1.	A feladat megoldásához hozzon létre konzolalkalmazást (projektet) Vedett azonosítóval! 
+ 
+2.	Az UTF-8 kódolású vedett.txt állomány Magyarország védett állatainak adatait tartalmazza a következő minta szerint (forrás: wikipedia.hu): 
+pannon gyík;100000;1974;hüllők
+kis héja;250000;1954;madarak
+csíkosfejű nádiposzáta;500000;1901;madarak
+barátkeselyű;250000;1954;madarak
+Az állományban az állat nevét, az állat eszmei értékét, a védetté vétel évét és az osztályát tároltuk. Az adatokat pontosvessző választja el. 
+Olvassa be a vedett.txt állományban lévő adatokat és tárolja el egy olyan adatszerkezetben, ami a további feladatok megoldására alkalmas! A fájlban legfeljebb 
+1000 sor lehet! 
+ 
+3.	Határozza meg és írja ki hány faj található az állományban! 
+ 
+4.	Határozza meg és írja ki az állományban található madarak értékeinek átlagértékét! 
+ 
+5.	Határozza meg és írja ki a legdrágább állat vagy állatok adatait!
+
+6.	Határozza meg és írja ki hány hüllő található a fájlban!
+
+7.	Mennyi a hiúz eszmei értéke? Hány olyan állat van az állományban, amelynek az értéke a hiúzéval megegyezik?
+
+8.	Kérj be egy fajnevet és vizsgáld meg, hogy védetté vették-e vagy sem!
+
+9.	Melyik állatnak a leghosszabb a neve?
+
+10.	Készíts statisztikát! Évenként hány állatot vettek védetté?
+
+11.	Hány sas szerepel az állományban?
+
+12.	Van-e valamilyen futrinka az állatok között, ha igen milyen futrinka?
+
+13.	A madarakból vagy emlősökből vettek fel több állatot védetté? 
